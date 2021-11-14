@@ -1,0 +1,27 @@
+{
+  "name": "jsqa_3_pw",
+  "version": "1.0.0",
+  "description": "jsaqa playwright hw",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yu-Smirnova/jsaqa_hw3_pw.git"
+  },
+  "keywords": [
+    "js",
+    "playwright"
+  ],
+  "author": "Yu-Smirnova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yu-Smirnova/jsaqa_hw3_pw/issues"
+  },
+  "homepage": "https://github.com/Yu-Smirnova/jsaqa_hw3_pw#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.16.3",
+    "playwright": "^1.16.3"
+  }
+}
